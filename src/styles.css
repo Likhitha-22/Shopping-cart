@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  max-width: 768px;
+  margin: 0 auto;
+  color: #333;
+  line-height: normal;
+}
+
+p {
+  margin: 0;
+}
+
+@media screen and (max-width: 479px) {
+  img {
+    width: 75px;
+    height: 75px;
+  }
+
+  .description {
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .col {
+    display: block;
+  }
+
+  .btn-sm.btn-outline {
+    width: 100%;
+  }
+}
+
+.container {
+  border: 1px solid #beb9b9;
+  padding: 10px;
+}
+
+.hrLine {
+  border-top: 1px solid #beb9b9;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.row {
+  padding: 10px;
+}
+
+.col {
+  color: #c03;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: right;
+  line-height: 40px;
+}
+
+.description {
+  font-size: 18px;
+}
+
+.productPart {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.partno {
+  font-weight: bold;
+}
+
+.btn-outline {
+  color: #fff;
+  background-color: #c03;
+  border-color: #c03;
+  font-weight: bold;
+  border-radius: 0;
+  width: auto;
+}
+
+.btn-outline:hover {
+  color: #fff;
+}

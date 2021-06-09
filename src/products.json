@@ -1,0 +1,59 @@
+[
+  {
+    "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/staticproductimage//2916/thumb/2130004_gol_352_pri_thmb.jpg",
+    "brandName": "AutoCraft Gold",
+    "productDescription": "Gold Battery - CCA: 640 - CA: 800 - Reserve: 110 min, 1 each, sold by each",
+    "partNumber": "35-2",
+    "fitmentNote": "Exact Fit",
+    "generalNotes": " OE Spec: OE Group 24F; OE CCA 550, Battery Spec: 640 CCA; 800 CA; 110 Minute Reserve Capacity; 3 Year Free Replacement",
+    "warranty": "3 YR FREE REPLACEMENT",
+    "pricing": {
+      "list": "$213.18",
+      "unit": "$159.99",
+      "core": "$22"
+    },
+    "availability": {
+      "store": "22",
+      "network": "33",
+      "dc": "9999"
+    }
+  },
+  {
+    "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/staticproductimage//2916/thumb/16940021_otm_d35_pri_thmb.jpg",
+    "brandName": "Optima",
+    "productDescription": "Yellow Top Battery - CCA: 620 - CA: 770 - Reserve: 100 min, 1 each, sold by each",
+    "partNumber": "D35",
+    "fitmentNote": "Exact Fit",
+    "generalNotes": "Yellow Top. Requires bottom height adapter, check hood clearance., OE Spec: OE Group 24F; OE CCA 550, Battery Spec: 620 CCA; 770 CA; 100 Minute Reserve Capacity; 3 Year Free Replacement",
+    "warranty": "3 YR FREE REPLACEMENT",
+    "pricing": {
+      "list": "$362.99",
+      "unit": "$225.52",
+      "core": "$22"
+    },
+    "availability": {
+      "store": "9994",
+      "network": "96",
+      "dc": "9999"
+    }
+  },
+  {
+    "image": "https://shop.advanceautoparts.com/wcsstore/CVWEB/staticproductimage//2916/thumb/16940003_otm_35_pri_thmb.jpg",
+    "brandName": "Optima",
+    "productDescription": "Red Top Battery - CCA: 720 - CA: 910 - Reserve: 90 min, 1 each, sold by each",
+    "partNumber": "35",
+    "fitmentNote": "Exact Fit",
+    "generalNotes": "Red Top. Requires bottom height adapter, check hood clearance., OE Spec: OE Group 24F; OE CCA 550, Battery Spec: 720 CCA; 910 CA; 90 Minute Reserve Capacity; 3 Year Free Replacement",
+    "warranty": "3 YR FREE REPLACEMENT",
+    "pricing": {
+      "list": "$306.99",
+      "unit": "$191.52",
+      "core": "$22"
+    },
+    "availability": {
+      "store": "9973",
+      "network": "10",
+      "dc": "0"
+    }
+  }
+]
